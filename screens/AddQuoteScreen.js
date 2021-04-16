@@ -3,9 +3,9 @@ import { StyleSheet, View, TouchableOpacity, TextInput, FlatList, ActivityIndica
 import { Container, Header, Content, Card, Item, Input, Label, CardItem, Text, Button, Thumbnail, Icon, Right, Body, Left } from 'native-base';
 
 
-const key = "ce948e4581baccf7e7b2151e5916c041";
-const token = "6e3e3274ab75bfbc3bbecdce28e80e62edb2a373f82b93005cc42fc8069c8f40";
-const board_id = "Y66vXZ3l";
+const key = "";
+const token = "";
+const board_id = "";
 
 export default class AddAuthorScreen extends React.Component {
     constructor(props) {
