@@ -3,8 +3,8 @@ import { StyleSheet, View, TextInput, Alert } from 'react-native';
 import { Content, Card, Item, Input, Label, CardItem, Text, Button, Body } from 'native-base';
 
 
-const key = "ce948e4581baccf7e7b2151e5916c041";
-const token = "6e3e3274ab75bfbc3bbecdce28e80e62edb2a373f82b93005cc42fc8069c8f40";
+const key = "";
+const token = "";
 
 export default class AddAuthorScreen extends React.Component {
     constructor(props) {
